@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134698125947",
+    "project_id": "fir-app-311c1",
+    "storage_bucket": "fir-app-311c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134698125947:android:79c94b5bdb8a32340b70de",
+        "android_client_info": {
+          "package_name": "com.demooo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-rvuQHahhL9F7BulVxqNp3rv3R2Y3KMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
